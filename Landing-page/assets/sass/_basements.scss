@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: row;
+  flex-wrap: wrap;
+} 
+
+html{
+  scroll-behavior: smooth;
+}
+
+head,
+script,
+style{
+  display: none;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  width: 100%;
+
+}
+
+a{
+  text-decoration: none;
+}
