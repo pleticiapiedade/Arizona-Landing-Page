@@ -1,6 +1,7 @@
 # Arizona Dev Teste
 
 Banner desenvolvido para o processo seletivo da Arizona
+
 Todas as imagens e fonts do banner são links absolutos, para visualizar o resultado é somente necessario baixar o index.html
 
 Landing page desenvolvida para o processo seletivo da Arizona
